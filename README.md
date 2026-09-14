@@ -98,3 +98,24 @@ Created by Adam Anwar. Inspired by open-weight AI engineering tools and Dieter R
 ## License
 
 MIT License. See repository for details.
+
+
+## Support
+Submit issues, questions, or bug reports to the GitHub issue tracker:
+https://github.com/ADM1SH/ai-hardware-calculator/issues
+
+
+## Roadmap
+* [x] Core architecture and baseline implementation.
+* [x] Functional verification and test coverage.
+* [ ] Add local LLM runner setup guides (Ollama, LM Studio, MLX, vLLM)
+* [ ] Integrate exportable hardware bill-of-materials reports
+
+
+## Contributing
+Contributions are welcome.
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/improvement`.
+3. Commit your changes: `git commit -m "feat: enhance functionality"`.
+4. Push to the branch: `git push origin feature/improvement`.
+5. Open a Pull Request.
